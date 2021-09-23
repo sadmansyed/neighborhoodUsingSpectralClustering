@@ -1,1 +1,1 @@
-# neighbourhoodUsingSpectralClustering
+# neighborhoodUsingSpectralClustering
